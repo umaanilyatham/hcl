@@ -1,0 +1,8 @@
+Hello, World!
+python is great!
+Let's write some data to a file.
+file handling is important in programming.
+Hello, World!
+python is great!
+Let's write some data to a file.
+file handling is important in programming.
